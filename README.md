@@ -6,6 +6,7 @@
 
 ### React Component Libraries
 - [Shadcn UI](https://ui.shadcn.com/) – Beautiful, customizable components built with Tailwind CSS and Radix UI.
+- [cult ui](https://www.cult-ui.com/) - Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding.
 - [Material UI](https://mui.com/) – Comprehensive React component library implementing Google’s Material Design.
 - [Ant Design](https://ant.design/) – Enterprise‑class UI design system with dynamic theme support.
 - [Chakra UI](https://chakra-ui.com/) – Accessible, modular React components with built‑in design tokens.
