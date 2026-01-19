@@ -11,6 +11,10 @@
 - [**ui**verse](https://uiverse.io/) - The Largest Library of Open-Source UI. Community-built library of UI elements. Copy as HTML/CSS, Tailwind, React and Figma. 
 - [Shadcn UI](https://ui.shadcn.com/) – Beautiful, customizable components built with Tailwind CSS and Radix UI. 
   - [cult ui](https://www.cult-ui.com/) - Shadcn compatible blocks, full stack nextjs templates and more. Built by design engineers, configured for vibe coding. 
+- [Base UI](https://base-ui.com/react/overview/quick-start) - Unstyled UI components, built to last.
+  - [coss ui](https://coss.com/ui/docs) - A new, modern UI component library built on top of Base UI. Built for developers and AI.
+  - [9ui](https://www.9ui.dev/) - Copy-Paste Components, Built with Base UI and Tailwind CSS . Easy to customize. 
+- [coss origin](https://coss.com/origin) - Beautiful copy-and-paste UI components built with Tailwind CSS and React.
 - [Material UI](https://mui.com/) – Comprehensive React component library implementing Google’s Material Design. 
 - [Ant Design](https://ant.design/) – Enterprise‑class UI design system with dynamic theme support. 
 - [Chakra UI](https://chakra-ui.com/) – Accessible, modular React components with built‑in design tokens. 
@@ -21,6 +25,7 @@
 - [Wedges](https://www.lemonsqueezy.com/wedges) - Beautiful UI components for React, lovingly crafted with the Wedges Design System, Radix UI, and Tailwind CSS.
 - [Kokonut UI](https://kokonutui.com/) - Modern UI components built with Tailwind CSS, shadcn/ui, and Motion to use on your Websites.
 - [Float UI](https://floatui.com/) - Build and ship fast with Tailwind CSS UI components for HTML, React, Svelte, and Vue.
+
 
 ### Icons
 - [Lucide Icons](https://lucide.dev/) – Clean, consistent open‑source icon set.
@@ -46,6 +51,16 @@
 - [fullPage](https://alvarotrigo.com/fullPage/) - Create Beautiful Fullscreen Scrolling Websites in minutes, not weeks.
 - [Swiper](https://swiperjs.com/) - Lightweight and modular mobile-friendly slider library, works with React, Vue, Svelte, and plain JavaScript.
 - [Scroll Carousel](https://asif-jalil.github.io/scroll-carousel-website/) - Beautiful, easy to use, scroll triggered carousel.
+
+-------
+
+## Backend
+- [Pocket**Base**](https://pocketbase.io/) - Open Source backend in 1 file. Realtime Database, Authentication, File Storage, Admin Dashboard.
+- [Strapi](https://strapi.io/) - Open-Source Headless CMS. Design your data models, generate APIs instantly, and integrate with your favorite frameworks. 
+
+### Emails
+- [useSend](https://usesend.com/) - Open source email platform. Pay only for what you send. Send up to 3000 free emails per month.
+
 
 -------
 
