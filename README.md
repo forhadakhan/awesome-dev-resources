@@ -69,4 +69,4 @@
 - [Netlify](https://www.netlify.com/) – All‑in‑one platform for deploying modern web projects with built‑in automation.
 - [Cloudflare Pages](https://pages.cloudflare.com/) – JAMstack platform for fast, secure frontend deployment with global CDN.
 - [GitHub Pages](https://pages.github.com/) – Static site hosting directly from a GitHub repository.
-
+- [surge](https://surge.sh/) - Static web publishing for Front-End Developers
